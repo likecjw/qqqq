@@ -12,6 +12,10 @@ namespace qqqq.Controllers
         {
             return View();
         }
+        public ActionResult CJWCJW()
+        {
+            return View();
+        }
 
         public ActionResult About()
         {
